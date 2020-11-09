@@ -28,8 +28,8 @@ Before processing, generated picutres to show the relationship between some feat
 
 3. Model Optimization 
 
-Implemented Hyperparameter tuning method. Top 3 models with highest R squared after tuning parameters were Random Forests, Bagging regressor and KNN.
-R
+Implemented Hyperparameter tuning method. Top 3 models with highest accuracy(R squared score) after tuning parameters were Random Forests(0.87), Bagging regressor (0.85) and KNN(0.75).
+
 
 
 ### Disclaimer
